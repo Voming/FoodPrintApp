@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.326" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.326" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/layout/fragment_calendar.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/layout/fragment_mypage.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/layout/fragment_recipe.xml" value="0.1691995947315096" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/layout/fragment_search.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/ebomi/GURU2/FoodPrintApp/app/src/main/res/menu/navi_menu.xml" value="0.29743589743589743" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
